@@ -13,10 +13,12 @@ Treinamos um pouco de markdown ;
 
 criamos um readme e atulizamos com as linguagens que estamos estudando
 
- ##tittle size 2
+ ## tittle size 2
  - item 1
  - item 2
  - item 3
-###tittle size 3
+   
+### tittle size 3
 **bold**
+
 *italic*
